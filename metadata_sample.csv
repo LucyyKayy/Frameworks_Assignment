@@ -1,0 +1,21 @@
+cord_uid,title,publish_time,journal,source_x
+id_1,COVID-19 and its global impact,2020-01-15,Nature,PMC
+id_2,SARS-CoV-2 transmission dynamics,2020-02-10,Science,Elsevier
+id_3,Vaccine development progress,2020-03-20,The Lancet,Springer
+id_4,Mental health during pandemic,2020-04-18,BMJ,Wiley
+id_5,AI in COVID-19 diagnostics,2020-05-25,JAMA,PMC
+id_6,COVID-19 and comorbidities,2020-06-30,Nature Medicine,Elsevier
+id_7,Impact of lockdowns on economy,2020-07-10,NEJM,Springer
+id_8,Long COVID and recovery patterns,2020-08-05,PLoS One,Wiley
+id_9,COVID-19 testing methods,2020-09-12,Cell,PMC
+id_10,Role of masks in prevention,2020-10-01,Science,Elsevier
+id_11,COVID-19 in children,2020-11-15,The Lancet,Springer
+id_12,Global vaccine distribution,2020-12-20,BMJ,Wiley
+id_13,Clinical trials of antivirals,2021-01-10,Nature,PMC
+id_14,COVID-19 misinformation online,2021-02-17,JAMA,Elsevier
+id_15,Telemedicine during pandemic,2021-03-09,NEJM,Springer
+id_16,COVID-19 variants and mutations,2021-04-22,Cell,Wiley
+id_17,Effect of social distancing,2021-05-11,PLoS One,PMC
+id_18,Healthcare workers challenges,2021-06-19,BMJ,Elsevier
+id_19,COVID-19 and elderly population,2021-07-25,The Lancet,Springer
+id_20,International collaboration on COVID-19,2021-08-30,Nature,Wiley
